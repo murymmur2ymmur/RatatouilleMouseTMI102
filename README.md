@@ -1,1 +1,2 @@
-# RatatouilleMouseTMI102
+# RatatouilleMouse
+# TMI 102 Project
